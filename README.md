@@ -11,3 +11,6 @@ sudo apt-get install xvfb
 Xvfb :99 &
 export DISPLAY=:99
 
+python rdp_bulk.py
+
+[NEEDS TO BE INSTALLED IN UNIX]
