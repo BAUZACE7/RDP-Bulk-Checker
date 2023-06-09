@@ -27,3 +27,7 @@ python rdp_bulk.py
 
 
 [NEEDS TO BE INSTALLED IN UNIX]
+
+
+
+MUST BE IN THIS FORMAT IP|USER|PASS
